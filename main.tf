@@ -1,7 +1,7 @@
 
 
 provider "google" {
-  project = "sekhar-452813"
+  project = "lyrical-bus-452711-c5"
   region  = "us-east1"
   zone= "us-east1-b"
 }
